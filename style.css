@@ -1,0 +1,35 @@
+
+*{margin:10px;
+}
+body{
+    background-color: gainsboro;
+}
+h1{
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(53, 51, 51);
+}
+.top,.mid,.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+
+.top{
+background-color: black;
+}
+
+.mid{
+background-color: orangered;
+}
+
+.bottom{
+    background-color: white;;
+}
+
+img{
+    height: 200px;
+}
