@@ -12,7 +12,7 @@ h1{
 }
 .top,.mid,.bottom{
     display: flex;
-    align-items: center;
+   align-items: center;
     justify-content: space-evenly;
     
 }
@@ -32,4 +32,9 @@ background-color: orangered;
 
 img{
     height: 200px;
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
 }
